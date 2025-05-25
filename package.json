@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/joy": "^5.0.0-beta.52",
+    "@mui/material": "^7.1.0",
+    "lucide-react": "^0.511.0",
+    "mixitup": "^3.3.2",
+    "next": "15.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.3.2"
+    "recharts": "^2.15.3",
+    "sonner": "^2.0.3",
+    "swiper": "^11.2.7"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
