@@ -69,7 +69,7 @@ const Projects = () => {
             description: 'A Finance tracker that has a lot a features for user experience.',
             tech: 'React, Next.js, Tailwind CSS, Drizzle ORM, and Clerk',
             date: 'May 2025',
-            view: 'https://finance-tracker-theta-beryl.vercel.app/',
+            view: 'https://finance-tracker-git-master-justin-alexis-machicas-projects.vercel.app/',
             image: '/images/FT.jpg',
         },
         {
